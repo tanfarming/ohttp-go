@@ -1,4 +1,4 @@
-module github.com/chris-wood/ohttp-go
+module github.com/tanfarming/ohttp-go
 
 go 1.15
 
